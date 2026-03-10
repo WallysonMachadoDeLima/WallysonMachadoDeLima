@@ -82,7 +82,7 @@ Sou um **Desenvolvedor Full Stack** em formação, apaixonado por tecnologia e s
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wallysonmachadodelima)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WallysonMachadoDeLima)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-f78166?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wallysonmachadodelima.github.io/portfolio-pessoal)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-f78166?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wallysonmachadodelima.github.io/portfolio-profissional)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wallyson@email.com)
 
 </div>
