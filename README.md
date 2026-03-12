@@ -57,25 +57,6 @@ Sou um **Desenvolvedor Full Stack** em formação, apaixonado por tecnologia e s
 
 ---
 
-## 🌟 Projetos em Destaque
-
-### 💼 Projetos Profissionais
-[![Hub de Atalhos](https://github-readme-stats.vercel.app/api/pin/?username=WallysonMachadoDeLima&repo=projeto-hub-atalhos&theme=dracula&hide_border=true&bg_color=0d1117&title_color=f78166&text_color=c9d1d9)](https://github.com/WallysonMachadoDeLima/projeto-hub-atalhos)
-[![Sistema Contábil](https://github-readme-stats.vercel.app/api/pin/?username=WallysonMachadoDeLima&repo=projeto-sistema-contabil&theme=dracula&hide_border=true&bg_color=0d1117&title_color=f78166&text_color=c9d1d9)](https://github.com/WallysonMachadoDeLima/projeto-sistema-contabil)
-
-### 🎓 Projetos Acadêmicos
-[![Faculdade ADS](https://github-readme-stats.vercel.app/api/pin/?username=WallysonMachadoDeLima&repo=faculdade-ads-atividades&theme=dracula&hide_border=true&bg_color=0d1117&title_color=f78166&text_color=c9d1d9)](https://github.com/WallysonMachadoDeLima/faculdade-ads-atividades)
-[![IoT Rastreamento](https://github-readme-stats.vercel.app/api/pin/?username=WallysonMachadoDeLima&repo=projeto-iot-rastreamento-frontend&theme=dracula&hide_border=true&bg_color=0d1117&title_color=f78166&text_color=c9d1d9)](https://github.com/WallysonMachadoDeLima/projeto-iot-rastreamento-frontend)
-
----
-
-## 📈 Atividade Recente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## 🤝 Conecte-se Comigo
 
 <div align="center">
