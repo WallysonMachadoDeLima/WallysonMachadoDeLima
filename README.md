@@ -78,15 +78,5 @@ Sou um **Desenvolvedor Full Stack** em formação, apaixonado por tecnologia e s
 ---
 
 <div align="center">
-
-### 💡 "A melhor forma de prever o futuro é criá-lo."
-
-![Snake animation](https://github.com/WallysonMachadoDeLima/WallysonMachadoDeLima/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=f78166&height=120&section=footer"/>
 </div>
