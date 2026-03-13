@@ -17,10 +17,10 @@
 
 Sou um **Desenvolvedor Full Stack** em formação, apaixonado por tecnologia e sempre em busca de novos desafios. Atualmente cursando **Análise e Desenvolvimento de Sistemas** e desenvolvendo projetos que vão desde aplicações web até soluções IoT.
 
-- 🔭 Trabalhando em projetos **Full Stack** e **IoT**
-- 🌱 Aprendendo **React, Node.js, TypeScript** e **C#**
-- 💡 Interessado em **Automação, Web Development** e **Mobile**
-- 📫 Contato: **wallyson@email.com**
+- 🔭 Trabalhando em projetos **Full Stack**.
+- 🌱 Aprendendo **Python, Java, C#.**
+- 💡 Interessado em **Rosolver**
+- 📫 Contato: **machadodelimawallyson@gmail.com**
 
 ---
 
