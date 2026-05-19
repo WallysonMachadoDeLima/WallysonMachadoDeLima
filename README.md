@@ -98,9 +98,3 @@ Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5569993575324)
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/WallysonMachadoDeLima/WallysonMachadoDeLima/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="80%" />
-</div>
