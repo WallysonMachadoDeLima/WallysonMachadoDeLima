@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Wallyson Machado de Lima
+# Wallyson Machado de Lima
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f78166&size=35&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;ADS+Student;Always+Learning+New+Technologies;Passionate+about+Coding)](https://git.io/typing-svg)
 
