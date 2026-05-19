@@ -44,11 +44,25 @@ Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
 
-### Database & Tools
+### Database
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### DevOps & Infra
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Amazon Lightsail](https://img.shields.io/badge/-Amazon%20Lightsail-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+### Ferramentas & Versionamento
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+![ClickUp](https://img.shields.io/badge/-ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
 
 ### Mobile & Desktop
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -88,5 +102,5 @@ Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/WallysonMachadoDeLima/WallysonMachadoDeLima/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/WallysonMachadoDeLima/WallysonMachadoDeLima/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="80%" />
 </div>
