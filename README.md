@@ -19,8 +19,9 @@ Sou um **Desenvolvedor Full Stack** em formação, apaixonado por tecnologia e s
 
 - 🔭 Trabalhando em projetos **Full Stack**.
 - 🌱 Aprendendo **Python, Java.**
-- 💡 Interessado em **Rosolver**
-- 📫 Contato: **machadodelimawallyson@gmail.com**
+- 💡 Interessado em **Resolver problemas reais com tecnologia**
+- 📫 Email: **machadodelimawallyson@gmail.com**
+- 💬 WhatsApp: **(69) 99357-5324**
 
 ---
 
@@ -61,18 +62,11 @@ Sou um **Desenvolvedor Full Stack** em formação, apaixonado por tecnologia e s
 
 [![Acessar Portfólio](https://img.shields.io/badge/Acessar%20Portfólio-f78166?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wallysonmachadodelima.github.io/portfolio-profissional)
 
-<br/>
-
 <a href="https://wallysonmachadodelima.github.io/portfolio-profissional">
-  <img src="1.png" width="48%" alt="Início" />
-  <img src="3.png" width="48%" alt="Projetos" />
-</a>
-
-<br/>
-
-<a href="https://wallysonmachadodelima.github.io/portfolio-profissional">
-  <img src="2.png" width="48%" alt="Sobre" />
-  <img src="4.png" width="48%" alt="Skills" />
+  <img src="1.png" width="24%" alt="Início" />
+  <img src="2.png" width="24%" alt="Sobre" />
+  <img src="3.png" width="24%" alt="Projetos" />
+  <img src="4.png" width="24%" alt="Skills" />
 </a>
 
 </div>
@@ -87,11 +81,12 @@ Sou um **Desenvolvedor Full Stack** em formação, apaixonado por tecnologia e s
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WallysonMachadoDeLima)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-f78166?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wallysonmachadodelima.github.io/portfolio-profissional)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:machadodelimawallyson@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5569993575324)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/WallysonMachadoDeLima/WallysonMachadoDeLima/main/profile-3d-contrib/profile-season-animate.svg" alt="3D Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WallysonMachadoDeLima&bg_color=0d1117&color=f78166&line=f78166&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
