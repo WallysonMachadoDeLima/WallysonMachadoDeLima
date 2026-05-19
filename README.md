@@ -55,11 +55,26 @@ Sou um **Desenvolvedor Full Stack** em formação, apaixonado por tecnologia e s
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Meu Portfólio
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WallysonMachadoDeLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f78166&icon_color=f78166&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallysonMachadoDeLima&layout=compact&langs_count=7&theme=dracula&hide_border=true&bg_color=0d1117&title_color=f78166&text_color=c9d1d9"/>
+
+[![Acessar Portfólio](https://img.shields.io/badge/Acessar%20Portfólio-f78166?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wallysonmachadodelima.github.io/portfolio-profissional)
+
+<br/>
+
+<a href="https://wallysonmachadodelima.github.io/portfolio-profissional">
+  <img src="1.png" width="48%" alt="Início" />
+  <img src="3.png" width="48%" alt="Projetos" />
+</a>
+
+<br/>
+
+<a href="https://wallysonmachadodelima.github.io/portfolio-profissional">
+  <img src="2.png" width="48%" alt="Sobre" />
+  <img src="4.png" width="48%" alt="Skills" />
+</a>
+
 </div>
 
 ---
@@ -78,5 +93,5 @@ Sou um **Desenvolvedor Full Stack** em formação, apaixonado por tecnologia e s
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f78166&height=120&section=footer"/>
+  <img src="https://raw.githubusercontent.com/WallysonMachadoDeLima/WallysonMachadoDeLima/main/profile-3d-contrib/profile-season-animate.svg" alt="3D Contribution Graph" />
 </div>
