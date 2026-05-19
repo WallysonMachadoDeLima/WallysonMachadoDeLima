@@ -18,13 +18,13 @@
 
 ---
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web, atuando tanto no front-end quanto no back-end com foco em performance, organização e entrega de soluções funcionais. Possui vivência com **Next.js**, **React.js**, **Vue.js**, **Node.js**, **NestJS**, **TypeScript**, **C#/.NET** e **MySQL**, além de conhecimento em infraestrutura, **APIs**, containers e automações. Atua em projetos acadêmicos e institucionais, contribuindo para a construção de sistemas modernos e aderentes às necessidades do negócio.
+Full Stack Developer with experience building web applications, working across both front-end and back-end with a focus on performance, organization, and delivery of functional solutions. Proficient in **Next.js**, **React.js**, **Vue.js**, **Node.js**, **NestJS**, **TypeScript**, **C#/.NET** and **MySQL**, with knowledge in infrastructure, **APIs**, containers, and automations. Works on academic and institutional projects, contributing to the construction of modern systems aligned with business needs.
 
-- 🔭 Trabalhando em projetos **Full Stack**.
-- 🌱 Aprendendo **Python, Java.**
-- 💡 Interessado em **Resolver problemas reais com tecnologia**
+- 🔭 Working on **Full Stack** projects.
+- 🌱 Learning **Python, Java.**
+- 💡 Interested in **solving real problems with technology**
 - 📫 Email: **machadodelimawallyson@gmail.com**
 - 💬 WhatsApp: **(69) 99357-5324**
 
@@ -61,7 +61,7 @@ Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Amazon Lightsail](https://img.shields.io/badge/-Amazon%20Lightsail-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
-### Ferramentas & Versionamento
+### Tools & Version Control
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
@@ -75,16 +75,16 @@ Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web
 
 ---
 
-## 🌐 Meu Portfólio
+## 🌐 My Portfolio
 
 <div align="center">
 
-[![Acessar Portfólio](https://img.shields.io/badge/Acessar%20Portfólio-f78166?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wallysonmachadodelima.github.io/portfolio-profissional)
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-f78166?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wallysonmachadodelima.github.io/portfolio-profissional)
 
 <a href="https://wallysonmachadodelima.github.io/portfolio-profissional">
-  <img src="1.png" width="24%" alt="Início" />
-  <img src="2.png" width="24%" alt="Sobre" />
-  <img src="3.png" width="24%" alt="Projetos" />
+  <img src="1.png" width="24%" alt="Home" />
+  <img src="2.png" width="24%" alt="About" />
+  <img src="3.png" width="24%" alt="Projects" />
   <img src="4.png" width="24%" alt="Skills" />
 </a>
 
@@ -92,7 +92,7 @@ Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web
 
 ---
 
-## 🤝 Conecte-se Comigo
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -102,4 +102,10 @@ Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:machadodelimawallyson@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5569993575324)
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/WallysonMachadoDeLima/WallysonMachadoDeLima/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="80%" />
 </div>
