@@ -15,7 +15,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um **Desenvolvedor Full Stack** em formação, apaixonado por tecnologia e sempre em busca de novos desafios. Atualmente cursando **Análise e Desenvolvimento de Sistemas** e desenvolvendo projetos que vão desde aplicações web até soluções IoT.
+Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web, atuando tanto no front-end quanto no back-end com foco em performance, organização e entrega de soluções funcionais. Possui vivência com **Next.js**, **React.js**, **Vue.js**, **Node.js**, **NestJS**, **TypeScript**, **C#/.NET** e **MySQL**, além de conhecimento em infraestrutura, **APIs**, containers e automações. Atua em projetos acadêmicos e institucionais, contribuindo para a construção de sistemas modernos e aderentes às necessidades do negócio.
 
 - 🔭 Trabalhando em projetos **Full Stack**.
 - 🌱 Aprendendo **Python, Java.**
@@ -88,5 +88,5 @@ Sou um **Desenvolvedor Full Stack** em formação, apaixonado por tecnologia e s
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WallysonMachadoDeLima&bg_color=0d1117&color=f78166&line=f78166&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/WallysonMachadoDeLima/WallysonMachadoDeLima/main/profile-3d-contrib/profile-season-animate.svg" alt="3D Contribution Graph" />
 </div>
