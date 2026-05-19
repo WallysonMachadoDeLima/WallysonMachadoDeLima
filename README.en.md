@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="README.md"><img src="https://img.shields.io/badge/🇧🇷_Português-009c3b?style=flat-square" /></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/🇧🇷_Português-555555?style=flat-square" /></a>
   <a href="README.en.md"><img src="https://img.shields.io/badge/🇺🇸_English-0057b8?style=flat-square" /></a>
 </div>
 
