@@ -7,7 +7,7 @@
 
 # Wallyson Machado de Lima
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f78166&size=35&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;ADS+Student;Always+Learning+New+Technologies;Passionate+about+Coding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f78166&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack;Estudante+de+ADS;Sempre+Aprendendo+Novas+Tecnologias;Apaixonado+por+Programação)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=WallysonMachadoDeLima&color=f78166&style=flat-square&label=Profile+Views" alt="Profile views" />
@@ -90,16 +90,3 @@ Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web
 
 </div>
 
----
-
-## 🤝 Conecte-se Comigo
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallyson-machado/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WallysonMachadoDeLima)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-f78166?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wallysonmachadodelima.github.io/portfolio-profissional)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:machadodelimawallyson@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5569993575324)
-
-</div>
