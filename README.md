@@ -88,5 +88,5 @@ Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/WallysonMachadoDeLima/WallysonMachadoDeLima/main/profile-3d-contrib/profile-season-animate.svg" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/WallysonMachadoDeLima/WallysonMachadoDeLima/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </div>
