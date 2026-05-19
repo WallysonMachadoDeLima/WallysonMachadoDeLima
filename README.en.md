@@ -81,12 +81,7 @@ Full Stack Developer with experience building web applications, working across b
 
 [![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-f78166?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dev.wallyson.com.br/)
 
-<a href="https://dev.wallyson.com.br/">
-  <img src="1.png" width="24%" alt="Home" />
-  <img src="2.png" width="24%" alt="About" />
-  <img src="3.png" width="24%" alt="Projects" />
-  <img src="4.png" width="24%" alt="Skills" />
-</a>
+<a href="https://dev.wallyson.com.br/#home"><img src="1.png" width="24%" alt="Home" /></a><a href="https://dev.wallyson.com.br/#about"><img src="2.png" width="24%" alt="About" /></a><a href="https://dev.wallyson.com.br/#projects"><img src="3.png" width="24%" alt="Projects" /></a><a href="https://dev.wallyson.com.br/#skills"><img src="4.png" width="24%" alt="Skills" /></a>
 
 </div>
 
