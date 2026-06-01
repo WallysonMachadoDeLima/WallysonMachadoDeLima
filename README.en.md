@@ -1,6 +1,6 @@
 <div align="right">
-  <a href="README.md"><img src="https://img.shields.io/badge/🇧🇷_Português-555555?style=flat-square" /></a>
-  <a href="README.en.md"><img src="https://img.shields.io/badge/🇺🇸_English-0057b8?style=flat-square" /></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/BR_Português-555555?style=flat-square" /></a>
+  <a href="README.en.md"><img src="https://img.shields.io/badge/EN_English-0057b8?style=flat-square" /></a>
 </div>
 
 <div align="center">
